@@ -1,0 +1,11 @@
+## `Fork` ##
+
+Definition:
+----
+"A fork is copy [or spilt] of a repository that allows
+developers to experiment with code and layout changes without
+directly impacting the original file verison unless changes are
+committed, pushed, and merged.' 
+
+[Above content cited from docs.github.com](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+
