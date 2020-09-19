@@ -85,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600274187111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feature: Repository 1st commit">
+      <created>1600539269475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600539269475</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feature: Repository 1st commit">
+      <created>1600539298793</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600539298793</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +123,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Feature: Repository 1st commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="402" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600539450308">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="402" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600539450308" />
+    <state x="184" y="67" key="MergeDialog" timestamp="1600539367112">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="184" y="67" key="MergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1600539367112" />
+    <state x="334" y="146" key="MultipleFileMergeDialog" timestamp="1600539367182">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="334" y="146" key="MultipleFileMergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1600539367182" />
     <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600274201468">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
