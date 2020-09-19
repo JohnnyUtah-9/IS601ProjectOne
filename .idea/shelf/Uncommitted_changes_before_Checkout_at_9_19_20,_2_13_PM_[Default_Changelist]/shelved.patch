@@ -1,0 +1,92 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"e60cda60-77e2-4a00-b3c5-fbd611c5dd49\" name=\"Default Changelist\" comment=\"Feature: Repository 1st commit\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1hbItHRvFiwWW67IoJJT3X3pDZO\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"e60cda60-77e2-4a00-b3c5-fbd611c5dd49\" name=\"Default Changelist\" comment=\"\" />\n      <created>1600273577360</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1600273577360</updated>\n      <workItem from=\"1600273578488\" duration=\"923000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Feature: .gitignore commit\">\n      <created>1600273678075</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600273678075</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Feature: Repository 1st commit\">\n      <created>1600274020237</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600274020237</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Feature: Repository 1st commit\">\n      <created>1600274187111</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1600274187111</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"4\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Feature: .gitignore commit\" />\n    <MESSAGE value=\"Feature: Repository 1st commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Feature: Repository 1st commit\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"234\" y=\"121\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1600274201468\">\n      <screen x=\"0\" y=\"23\" width=\"1280\" height=\"749\" />\n    </state>\n    <state x=\"234\" y=\"121\" key=\"Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749\" timestamp=\"1600274201468\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 62b211fd004fec5dc4529715a76c2da2e6458c57)
++++ .idea/workspace.xml	(date 1600277788406)
+@@ -19,13 +19,21 @@
+     <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: Repository 1st commit" />
++    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: Branch 1st commit">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="Git.Settings">
++    <option name="PUSH_TAGS">
++      <GitPushTagMode>
++        <option name="argument" value="--tags" />
++        <option name="title" value="All" />
++      </GitPushTagMode>
++    </option>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+         <entry key="$PROJECT_DIR$" value="master" />
+@@ -44,6 +52,8 @@
+   <component name="PropertiesComponent">
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="node.js.path.for.package.tslint" value="project" />
++    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -77,7 +87,21 @@
+       <option name="project" value="LOCAL" />
+       <updated>1600274187111</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Feature: Fork branch 1st commit">
++      <created>1600277203404</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1600277203405</updated>
++    </task>
++    <task id="LOCAL-00005" summary="Feature: Branch 1st commit">
++      <created>1600277773432</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1600277773432</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -93,16 +117,23 @@
+         </entry>
+       </map>
+     </option>
++    <option name="oldMeFiltersMigrated" value="true" />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Feature: .gitignore commit" />
+     <MESSAGE value="Feature: Repository 1st commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Repository 1st commit" />
++    <MESSAGE value="Feature: Fork branch 1st commit" />
++    <MESSAGE value="Feature: Branch 1st commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="Feature: Branch 1st commit" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600274201468">
++    <state x="432" y="201" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600277505889">
+       <screen x="0" y="23" width="1280" height="749" />
+     </state>
+-    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600274201468" />
++    <state x="432" y="201" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600277505889" />
++    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600277784633">
++      <screen x="0" y="23" width="1280" height="749" />
++    </state>
++    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600277784633" />
+   </component>
+ </project>
+\ No newline at end of file
