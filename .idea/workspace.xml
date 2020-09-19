@@ -16,7 +16,14 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/Branch" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: Repository 1st commit">
@@ -35,6 +42,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="b73ff820-1019-4025-9741-8b80c4e9d3fc" />
   <component name="ProjectId" id="1hbItHRvFiwWW67IoJJT3X3pDZO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -46,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -63,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600273577360</updated>
       <workItem from="1600273578488" duration="923000" />
+      <workItem from="1600520599712" duration="1714000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: .gitignore commit">
       <created>1600273678075</created>
@@ -96,7 +106,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/Branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -106,9 +133,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: .gitignore commit" />
     <MESSAGE value="Feature: Repository 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Repository 1st commit" />
+    <MESSAGE value="Feature: markdown file conversion commit" />
+    <MESSAGE value="Feature:markdown file conversion commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature:markdown file conversion commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600531212263">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600531212263" />
     <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600274201468">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
