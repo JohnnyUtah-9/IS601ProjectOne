@@ -26,9 +26,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: Gitflow branch added">
+    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: README update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gitflow" beforeDir="false" afterPath="$PROJECT_DIR$/Gitflow" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600532197382</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Feature: README update">
+      <created>1600538319499</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600538319501</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feature: README update">
+      <created>1600538363253</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600538363253</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,7 +186,8 @@
     <MESSAGE value="Feature: merge branch added" />
     <MESSAGE value="Feature: gitflow branch added" />
     <MESSAGE value="Feature: Gitflow branch added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Gitflow branch added" />
+    <MESSAGE value="Feature: README update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: README update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="63" key="#Inspections" timestamp="1600534153340">
@@ -188,9 +202,9 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600532917251" />
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600532206110">
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600538377356">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600532206110" />
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600538377356" />
   </component>
 </project>

@@ -25,6 +25,13 @@ ___
 * [Status](#Status)
 * [Master Branch](#Master Branch)
 
+____
+> `Change Log` 
+
+| Branch | Commit | Team member |
+| --- | --- | --- |
+
+
 
 
 
@@ -32,5 +39,4 @@ ___
 [Above content cited from git-scm.com](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#:~:text=A%20branch%20in%20Git%20is,branch%20pointer%20moves%20forward%20automatically.)
 
  
- 
-### Git Collaboration Project 
+
