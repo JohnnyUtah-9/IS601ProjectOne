@@ -26,9 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: Repository 1st commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: merge branch added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Merge" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600274187111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feature: merge branch added">
+      <created>1600531506892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600531506892</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,16 +140,17 @@
     <MESSAGE value="Feature: Repository 1st commit" />
     <MESSAGE value="Feature: markdown file conversion commit" />
     <MESSAGE value="Feature:markdown file conversion commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature:markdown file conversion commit" />
+    <MESSAGE value="Feature: merge branch added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: merge branch added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600531212263">
+    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600531682992">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600531212263" />
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600274201468">
+    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600531682992" />
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600531519778">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600274201468" />
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600531519778" />
   </component>
 </project>
