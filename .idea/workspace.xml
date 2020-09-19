@@ -16,20 +16,11 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/Branch" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: Gitflow branch added">
+    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: Repository 1st commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gitflow" beforeDir="false" afterPath="$PROJECT_DIR$/Gitflow" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +35,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="b73ff820-1019-4025-9741-8b80c4e9d3fc" />
   <component name="ProjectId" id="1hbItHRvFiwWW67IoJJT3X3pDZO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -56,7 +46,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -64,11 +53,6 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -79,7 +63,6 @@
       <option name="presentableId" value="Default" />
       <updated>1600273577360</updated>
       <workItem from="1600273578488" duration="923000" />
-      <workItem from="1600520599712" duration="1714000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: .gitignore commit">
       <created>1600273678075</created>
@@ -102,35 +85,7 @@
       <option name="project" value="LOCAL" />
       <updated>1600274187111</updated>
     </task>
-    <task id="LOCAL-00004" summary="Feature: merge branch added">
-      <created>1600531506892</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1600531506892</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Feature: Gitflow branch added">
-      <created>1600532016830</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1600532016830</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Feature: Gitflow branch added">
-      <created>1600532088640</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1600532088640</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Feature: Gitflow branch added">
-      <created>1600532197382</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1600532197382</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,24 +96,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="origin/Branch" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -168,29 +106,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: .gitignore commit" />
     <MESSAGE value="Feature: Repository 1st commit" />
-    <MESSAGE value="Feature: markdown file conversion commit" />
-    <MESSAGE value="Feature:markdown file conversion commit" />
-    <MESSAGE value="Feature: merge branch added" />
-    <MESSAGE value="Feature: gitflow branch added" />
-    <MESSAGE value="Feature: Gitflow branch added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Gitflow branch added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Repository 1st commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="63" key="#Inspections" timestamp="1600534153340">
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600274201468">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="330" y="63" key="#Inspections/0.23.1280.749@0.23.1280.749" timestamp="1600534153340" />
-    <state x="296" y="43" key="#Intentions" timestamp="1600537230393">
-      <screen x="0" y="23" width="1280" height="749" />
-    </state>
-    <state x="296" y="43" key="#Intentions/0.23.1280.749@0.23.1280.749" timestamp="1600537230393" />
-    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600532917251">
-      <screen x="0" y="23" width="1280" height="749" />
-    </state>
-    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600532917251" />
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600532206110">
-      <screen x="0" y="23" width="1280" height="749" />
-    </state>
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600532206110" />
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600274201468" />
   </component>
 </project>
