@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: Repository 1st commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_19_20__2_13_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_9_19_20__2_13_PM__Default_Changelist_.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sidney Johnson &lt;sidney.b.johnson3@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -35,6 +40,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="6eaa9b41-8223-45bc-8442-00d7e74f9342" />
   <component name="ProjectId" id="1hbItHRvFiwWW67IoJJT3X3pDZO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -63,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600273577360</updated>
       <workItem from="1600273578488" duration="923000" />
+      <workItem from="1600541963391" duration="570000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: .gitignore commit">
       <created>1600273678075</created>
@@ -99,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600539298793</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <created>1600542153791</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600542153791</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,12 +134,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: .gitignore commit" />
     <MESSAGE value="Feature: Repository 1st commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Repository 1st commit" />
+    <MESSAGE value="Feature Checkout 2" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600539450308">
-      <screen x="0" y="23" width="1280" height="749" />
+    <state x="429" y="181" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600542046776">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="429" y="181" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600542046776" />
     <state x="402" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600539450308" />
     <state x="184" y="67" key="MergeDialog" timestamp="1600539367112">
       <screen x="0" y="23" width="1280" height="749" />
@@ -135,9 +152,10 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="334" y="146" key="MultipleFileMergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1600539367182" />
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600274201468">
-      <screen x="0" y="23" width="1280" height="749" />
+    <state x="250" y="95" key="Vcs.Push.Dialog.v2" timestamp="1600542506438">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="250" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600542506438" />
     <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600274201468" />
   </component>
 </project>
