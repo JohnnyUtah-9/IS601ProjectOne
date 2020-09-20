@@ -1,16 +1,33 @@
 ## `Repository` ##
 
+![git image](images/repository.jpg)
 
-Definition:
-----
+___
+
+####Definition:
+
 "Git is a program that tracks changes made to files. Once installed,
 Git can be initialized on a project to create a Git repository."
 
-A Git repository is the git folder inside of a project.
+"A Git repository is the git folder inside of a project.
 This repository tracks all of the changes made to the files in your project,
-resulting in a completed project history composed of controlled[edited/modified] 'versions.'
+resulting in a completed project history composed of controlled[edited/modified] versions."
 
-[Above content cited from axosoft.com](https://blog.axosoft.com/learning-git-repository/)
+[citation from axosoft.com](https://blog.axosoft.com/learning-git-repository/)
 
+___
 
----
+### Starting a Git Repository
+
+    * Create a Git repository in one of two ways:
+
+    * Take a local directory that is currently not under version control, and turn it into a Git repository
+
+    * Clone an existing Git repository from elsewhere.
+
+    * Either way, you end up with a Git repository on your local machine
+ 
+ ##### Citations and Further Resources
+ * [Git Repositories](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+ * [Intro to Git](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+ 

@@ -1,12 +1,18 @@
-## `Merge` ##
+>## `Git Merge` ##
+
+>![git image](images/Merge.png)
+
+___
+
+##### Definition:
+* Git merge command integrates the independent lines of development into a single branch. 
+* Git merge command goes hand in hand with git checkout command to select the current branch
+* USe with the -d flag to delete the obsolete target branch
 
 
-Definition:
-----
-"Branching is when you diverge from the main repository
-and continue to develop and make changes on a new "branch."
-Git allows you to create, switch and modify multiple branches near 
-instantenously, resulting a more simplified and efficient coding
-devleopment process.'
+ ##### Citations and Resources:
+ 
 
-[Above content cited from git-scm.com](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#:~:text=A%20branch%20in%20Git%20is,branch%20pointer%20moves%20forward%20automatically.)
+* [w3docs: git merging](https://www.w3docs.com/learn-git/git-merge.html)
+* [Upcoming Git Conference: Git Merge](https://git-merge.com/)
+* [Git Merge into Master](https://stackabuse.com/git-merge-branch-into-master/)

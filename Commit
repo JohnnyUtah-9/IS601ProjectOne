@@ -1,12 +1,34 @@
-## `Commit` ##
+> ## `Git Commit` ##
+
+> ![git image](images/images.png)
+
+___
+
+<font color="#9370db"> Definition: </font> 
+"Git commit command captures a snapshot of the project's current changes. Committed snapshots are similar
+to “safe” versions of a project, meaning that Git will never change them unless you ask it to. The git add command is 
+used to promote or 'stage' changes to the project that will are stored in a commit."
 
 
-Definition:
-----
-"Branching is when you diverge from the main repository
-and continue to develop and make changes on a new "branch."
-Git allows you to create, switch and modify multiple branches near 
-instantenously, resulting a more simplified and efficient coding
-devleopment process.'
 
-[Above content cited from git-scm.com](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#:~:text=A%20branch%20in%20Git%20is,branch%20pointer%20moves%20forward%20automatically.)
+Common git commit options:
+
+
+> ![git image](images/Commit0.png)
+>
+> ![git image](images/Commit1.png)
+>
+>![git image](images/Commit2.png)
+>
+>![git image](images/Commit3.png)
+
+
+[*Content cited from git-scm.com*](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
+___
+
+Further Git Commit Resources: 
+* [Git Commit explanation](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)
+* [Git Commit Steps](https://www.bitdegree.org/learn/git-commit-command)
+* [Git Commit command line](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html)
+
+

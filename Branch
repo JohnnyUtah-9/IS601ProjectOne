@@ -1,12 +1,22 @@
-## `Branch` ##
+## `Git Branch` ##
 
+![git image](images/branch.png)
 
-Definition:
-----
-"Branching is when you diverge from the main repository
+ #####  Definition: 
+> "Branching is when you diverge from the main repository
 and continue to develop and make changes on a new "branch."
 Git allows you to create, switch and modify multiple branches near 
 instantenously, resulting a more simplified and efficient coding
-devleopment process.'
+devleopment process." 
 
-[Above content cited from git-scm.com](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell#:~:text=A%20branch%20in%20Git%20is,branch%20pointer%20moves%20forward%20automatically.)
+>[Defintion cited from git-scm.com](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) 
+___
+`Further Branching Resources`
+* [Branching in a nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+* [Branching Tutorial Practice](https://learngitbranching.js.org/)
+* [Bitbucket Branching Assistant](https://www.atlassian.com/git/tutorials/using-branches)
+
+
+
+
+
