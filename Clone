@@ -1,15 +1,17 @@
-## `Clone` ##
+## `Git Cloning` ##
 
-"git clone"
+![git image](images/Clone.png)
+
 Definition:
 ----
-"The "clone" command downloads an existing Git repository to your local computer.
- 
+> "The "clone" command downloads an existing Git repository to your local computer.
  You will then have a full-blown, local version of that Git repo and can start working on the project.
- 
  Typically, the "original" repository is located on a remote server, often from a service like GitHub, 
  Bitbucket, or GitLab). That remote repository's URL is then later referred to as the "origin".' 
+[defintion cited from https://www.git-tower.com/](https://www.git-tower.com/learn/git/commands/git-clone)
+___
 
-[Above content cited from https://www.git-tower.com/](https://www.git-tower.com/learn/git/commands/git-clone)
+### Further git cloning resources:
+* 
 
 

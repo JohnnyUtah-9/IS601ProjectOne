@@ -29,6 +29,7 @@
     <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: README update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Branch" beforeDir="false" afterPath="$PROJECT_DIR$/Branch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clone" beforeDir="false" afterPath="$PROJECT_DIR$/Clone" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600558648054</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Feature: README update">
+      <created>1600559761674</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600559761674</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,9 +210,9 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600558636802" />
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600558660266">
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600559779606">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600558660266" />
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600559779606" />
   </component>
 </project>

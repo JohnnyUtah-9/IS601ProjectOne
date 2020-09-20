@@ -1,6 +1,5 @@
 ## `Git Branching` ##
 
-
 ![git image](images/branch.png)
 
  #####  Definition: 
@@ -9,8 +8,8 @@ and continue to develop and make changes on a new "branch."
 Git allows you to create, switch and modify multiple branches near 
 instantenously, resulting a more simplified and efficient coding
 devleopment process." 
->
- [Defintion cited from git-scm.com](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) 
+
+>[Defintion cited from git-scm.com](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging) 
 ___
 `Further Branching Resources`
 * [Branching in a nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
