@@ -26,11 +26,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: README update">
+    <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: README update commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Branch" beforeDir="false" afterPath="$PROJECT_DIR$/Branch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clone" beforeDir="false" afterPath="$PROJECT_DIR$/Clone" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600559761674</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Feature: README update commit">
+      <created>1600562402981</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600562402981</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +199,8 @@
     <MESSAGE value="Feature: gitflow branch added" />
     <MESSAGE value="Feature: Gitflow branch added" />
     <MESSAGE value="Feature: README update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: README update" />
+    <MESSAGE value="Feature: README update commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: README update commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="330" y="63" key="#Inspections" timestamp="1600534153340">
@@ -210,9 +215,9 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600558636802" />
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600559779606">
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600562412111">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600559779606" />
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600562412111" />
   </component>
 </project>
