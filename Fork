@@ -1,11 +1,20 @@
-## `Fork` ##
+> ## `Git Fork` ##
 
-Definition:
-----
-"A fork is copy [or spilt] of a repository that allows
+---
+
+> ![git image](images/Forking.png)
+
+---
+
+### Definition:
+
+"A fork is copy [or a spilt] of a repository that allows
 developers to experiment with code and layout changes without
 directly impacting the original file verison unless changes are
 committed, pushed, and merged.' 
+[defintion cited from docs.github.com](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
-[Above content cited from docs.github.com](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
-
+### Additional Resources:
+* [How to Fork a Git Repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+* [Forking Development Projects](https://guides.github.com/activities/forking/)
+* [Git Fork vs Git Clone(Paywall)](https://medium.com/@tharis63/git-fork-vs-git-clone-8aad0c0e38c0)

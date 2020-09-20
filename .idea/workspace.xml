@@ -28,6 +28,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e60cda60-77e2-4a00-b3c5-fbd611c5dd49" name="Default Changelist" comment="Feature: README update commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Branch" beforeDir="false" afterPath="$PROJECT_DIR$/Branch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clone" beforeDir="false" afterPath="$PROJECT_DIR$/Clone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Commit" beforeDir="false" afterPath="$PROJECT_DIR$/Commit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fork" beforeDir="false" afterPath="$PROJECT_DIR$/Fork" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Merge" beforeDir="false" afterPath="$PROJECT_DIR$/Merge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repository" beforeDir="false" afterPath="$PROJECT_DIR$/Repository" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600562402981</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Feature: README update commit">
+      <created>1600602902761</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600602902761</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,13 +224,13 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="296" y="43" key="#Intentions/0.23.1280.749@0.23.1280.749" timestamp="1600537230393" />
-    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600558636802">
+    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600603002314">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600558636802" />
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600562412111">
+    <state x="403" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.749@0.23.1280.749" timestamp="1600603002314" />
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2" timestamp="1600602914233">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600562412111" />
+    <state x="234" y="121" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1600602914233" />
   </component>
 </project>
